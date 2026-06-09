@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01d62c14ec02d4a5ab42aea5465e82c0, type: 3}
+  m_Name: AnimalEvolutionTreeData
+  m_EditorClassIdentifier: 
+  levels:
+  - name: Frog
+    prefab: {fileID: 6927275930578144116, guid: 395033bdc79f44f5cb26175d951eec73, type: 3}
+    scaleRatio: 0.65
+  - name: Dog
+    prefab: {fileID: 1459430481230685380, guid: 4a7ab41918ba64faf9a8cf1993922a4f, type: 3}
+    scaleRatio: 0.8
+  - name: Penguin
+    prefab: {fileID: 1459430481230685380, guid: 50e56bec02fe44a05a12cb46c2a1e43e, type: 3}
+    scaleRatio: 1
+  - name: Turtle
+    prefab: {fileID: 1459430481230685380, guid: 63ce79e7b93f642beb2fb6b84ee049f1, type: 3}
+    scaleRatio: 1.3
+  - name: Fish
+    prefab: {fileID: 1459430481230685380, guid: 80edda4ae05124e01b80468f96d19fd2, type: 3}
+    scaleRatio: 1.3
+  - name: Crab
+    prefab: {fileID: 1459430481230685380, guid: a2d18807ef220450482b09d4b6154617, type: 3}
+    scaleRatio: 1.5
+  - name: Pig
+    prefab: {fileID: 1459430481230685380, guid: 665a6e25cb81f49c8a5bbe0b5116ea1e, type: 3}
+    scaleRatio: 1.9
+  - name: Monkey
+    prefab: {fileID: 1459430481230685380, guid: dc1683196a10141c6a0c7a5922e51c9f, type: 3}
+    scaleRatio: 2.3
+  - name: Unicorn
+    prefab: {fileID: 1459430481230685380, guid: 1d0ccab6c4dbf4c43b1e7cebe5fb801d, type: 3}
+    scaleRatio: 2.7
+  - name: Shark
+    prefab: {fileID: 1459430481230685380, guid: b07dfb6a26eca4db6ba4f69ac5fa54a7, type: 3}
+    scaleRatio: 3
+  - name: Dragon
+    prefab: {fileID: 1459430481230685380, guid: 0273410141d684611bd1ecbabf18a90d, type: 3}
+    scaleRatio: 3.5
